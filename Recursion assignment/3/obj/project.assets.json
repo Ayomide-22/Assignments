@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\Al-Ameen Assignments\\Methods Assignment\\11\\11.csproj",
-      "projectName": "11",
-      "projectPath": "c:\\Users\\User\\Desktop\\Al-Ameen Assignments\\Methods Assignment\\11\\11.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Coding Shii\\Assignments\\Recursion assignment\\3\\3.csproj",
+      "projectName": "3",
+      "projectPath": "C:\\Users\\User\\Desktop\\Coding Shii\\Assignments\\Recursion assignment\\3\\3.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\Al-Ameen Assignments\\Methods Assignment\\11\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Coding Shii\\Assignments\\Recursion assignment\\3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
